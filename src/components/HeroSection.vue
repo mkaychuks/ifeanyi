@@ -55,7 +55,7 @@ const titles = [
         <span class="text-black">technology, </span>
         passionate about
         <span class="text-black">frontend </span>development and loves
-        <span class="text-black">cartoons😄</span>
+        <span class="text-black">cartoons 😄</span>
       </h2>
       <!-- the skills and all -->
       <div
